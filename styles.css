@@ -75,7 +75,7 @@ body{
     height: 92px;
 }
 
-.left-top{
+.product{
     background-color: #a3f763;
     height: 80%;
     display: flex;
@@ -87,7 +87,7 @@ body{
  
 }
 
-.main-image{
+.product_photo{
     width: 200px;
     height: 200px;
     position: relative;
