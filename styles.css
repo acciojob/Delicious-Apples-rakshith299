@@ -23,7 +23,7 @@ body{
    
 }
 
-.white-cont{
+.product{
     width: 50%;
     background-color: white;
     border-radius: 12px;
@@ -41,7 +41,7 @@ body{
 
 }
 
-.left-cont{
+.photo-container{
     width: 80%;
     height: 65vh;
     position: relative;
@@ -75,7 +75,7 @@ body{
     height: 92px;
 }
 
-.product{
+.product_photo{
     background-color: #a3f763;
     height: 80%;
     display: flex;
@@ -87,7 +87,7 @@ body{
  
 }
 
-.product_photo{
+.photo-main{
     width: 200px;
     height: 200px;
     position: relative;
