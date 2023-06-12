@@ -104,7 +104,7 @@ body{
     height: 38px;
 }
 
-.price-cont{
+.price{
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 18px;
@@ -115,7 +115,7 @@ body{
     justify-content: flex-start;
 }
 
-.price-cont span{
+.price span{
     font-size: 40px;
     color: red;
     margin-left: 15px;
